@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BMS1", "BMS1.vbproj", "{93242757-3F03-4C93-B41A-6DD3CE9E3C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{93242757-3F03-4C93-B41A-6DD3CE9E3C64}.Debug.ActiveCfg = Debug|.NET
+		{93242757-3F03-4C93-B41A-6DD3CE9E3C64}.Debug.Build.0 = Debug|.NET
+		{93242757-3F03-4C93-B41A-6DD3CE9E3C64}.Release.ActiveCfg = Release|.NET
+		{93242757-3F03-4C93-B41A-6DD3CE9E3C64}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
